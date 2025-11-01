@@ -76,9 +76,9 @@ Elevator 2: Floor 1, State: idle
 ## 🧑‍💻 Author <br>
 
 **Adityasinh Zala** <br>
-AI/ML Engineer | Tech Explorer | Curious Learner   <br>
+AI/ML Engineer | Tech Explorer | Curious Learner <br>
 [GitHub](https://github.com/AdityaZala3919) • [LinkedIn](https://www.linkedin.com/in/adityasinh-zala-1bbb42258/)
+
 ---
 
-⭐ *If you found this project interesting, give it a star on GitHub!* <br>
-🌐 *Built with ❤️ using Google Gemini SDK and Streamlit.*  
+⭐ *If you found this project interesting, give it a star on GitHub!*
